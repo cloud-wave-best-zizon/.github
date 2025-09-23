@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌐 Cloud Infrastructure for Global OliveYoung
+# 🌐 Cloud Infrastructure for OliveYoung
 
 > K-뷰티 리더 올리브영의 글로벌 확장을 위한 MSA 기반 제로 트러스트(Zero Trust) 보안 인프라
 
